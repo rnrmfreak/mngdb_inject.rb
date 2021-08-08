@@ -1,1 +1,1 @@
-# mngdb_inject.rb
+# pentesterlab challenge mongodb
