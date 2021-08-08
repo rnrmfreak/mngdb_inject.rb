@@ -1,0 +1,1 @@
+# mngdb_inject.rb
